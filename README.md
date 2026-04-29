@@ -31,6 +31,15 @@ SmartPath Counselor is an AI-powered chatbot designed to help students explore t
 
 ---
 
+## ⚙️ Setup Environment Variables
+
+Create a `.env` file in the project folder and add your API keys:
+
+GROQ_API_KEY=your_key
+GEMINI_API_KEY=your_key
+REPLICATE_API_TOKEN=your_token
+
+---
 ## 💻 How to Run the Project
 
 1. Clone the repository:
